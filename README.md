@@ -1,7 +1,7 @@
 
-  # Medicine Reminder App Wireframes (Copy)
+  # Medicine Reminder
 
-  This is a code bundle for Medicine Reminder App Wireframes (Copy). The original project is available at https://www.figma.com/design/RXOJe2Y6DZlKNMyYaMzPnc/Medicine-Reminder-App-Wireframes--Copy-.
+  This is a code bundle for Medicine Reminder. The original project is available at https://www.figma.com/design/RXOJe2Y6DZlKNMyYaMzPnc/Medicine-Reminder-App-Wireframes--Copy-.
 
   ## Running the code
 
